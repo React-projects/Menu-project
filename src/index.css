@@ -41,7 +41,7 @@
 }
 .img-item {
   height: 180px;
-  width: 252px;
+  width: 252px !important;
   border-radius: 5px;
 }
 .item-description {
