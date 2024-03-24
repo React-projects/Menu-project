@@ -29,7 +29,7 @@
   line-height: 24px;
 }
 .btn:hover {
-  color: black;
+  color: black !important;
   font-family: Almarai;
   font-size: 18px;
   font-weight: bold;
@@ -37,7 +37,7 @@
   line-height: 24px;
   border-radius: 11px;
   border: none;
-  background-color: #B45B35;
+  background-color: #B45B35 !important;
 }
 .img-item {
   height: 180px;

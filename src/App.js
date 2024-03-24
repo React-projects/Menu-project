@@ -1,6 +1,7 @@
 import { Container } from "react-bootstrap";
 import Header from "./Components/Header";
 import MainTitle from "./Components/MainTitle";
+import Categories from "./Components/Categories";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
         <Header/>
       <Container>
         <MainTitle/>
+        <Categories/>
         
       </Container>
       
